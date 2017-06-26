@@ -23,3 +23,9 @@
 
 <h4>User Profile Page</h4>
 <p><img src="http://i.imgur.com/7FkLyJe.png" width="700" /></p>
+
+<h1>Technologies:</h1>
+<p>Ruby on Rails backend<p>
+<p>React frontend</p>
+<p>React Draggable Library</p>
+<p>Probably Redux?</p>
