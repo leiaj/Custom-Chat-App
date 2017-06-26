@@ -9,4 +9,4 @@
 
 Wireframes:
 
-  <img src="http://i.imgur.com/cL53MSX.png" width="250"/>
+  <img src="http://i.imgur.com/cL53MSX.png" width="500"/>
