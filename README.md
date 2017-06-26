@@ -9,3 +9,4 @@ Users with accounts are the only ones able to create chatrooms but an account is
 
 Wireframes:
 
+  <img src="http://i.imgur.com/cL53MSX.png"/>
