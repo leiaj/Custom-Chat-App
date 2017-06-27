@@ -7,10 +7,6 @@
 <p>Users with accounts are the only ones able to create chatrooms but an account is not necessary to join a chat.</p>
 
 
-(these will link to their own repos eventually)
-Ruby on Rails Backend Repo 
-React Frontend Repo
-
 <h1>Wireframes:</h1>
 
 <h4>Home Page</h4>
@@ -34,3 +30,4 @@ React Frontend Repo
 <p>React frontend</p>
 <p>React Draggable Library</p>
 <p>Probably Redux?</p>
+<p>Websockets</p>
