@@ -19,9 +19,9 @@
 <h4>Create New Chatroom</h4>
 <p><img src="http://i.imgur.com/AT0sUnd.png" width="700" /></p>
 
-<h4>Custom Chatrooms</h4>
+<h4>Custom Chatroom</h4>
 <p><img src="http://i.imgur.com/nKFF16N.png" width="700" /></p>
-<p><img src="http://i.imgur.com/xP8AD7p.png" width="700" /></p>
+
 
 <h4>User Profile Page</h4>
 <p><img src="http://i.imgur.com/7FkLyJe.png" width="700" /></p>
