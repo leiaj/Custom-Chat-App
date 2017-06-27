@@ -19,7 +19,7 @@ class Api::V1::ItemsController < ActionController::API
   private
 
   def item_params
-    params.require(:item).permit(:name, :img_url, :x_coordinate, :y_coordinate)
+    params.require(:item).permit(:name, :img_url, :x_coordinate, :y_coordinate, :chatroom_id)
   end
 
 end
